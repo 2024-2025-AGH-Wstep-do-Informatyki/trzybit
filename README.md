@@ -1,0 +1,2 @@
+# trzybit
+Projekt grupy trzybit
