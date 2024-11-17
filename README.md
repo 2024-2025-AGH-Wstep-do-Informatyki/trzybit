@@ -1,6 +1,6 @@
 # trzybit
 
-**trzybit** to dwuwymiarowa gra platformowa inspirowana klasyczną grą *Doodle Jump*. W grze kontrolujesz postać, której celem jest skakanie po platformach, unikanie przeszkód i zdobywanie punktów. Gra została stworzona w Pythonie przy użyciu biblioteki Pygame.
+**trzybit** to projekt dwuwymiarowej gry inspirowanej klasyczną grą *Doodle Jump*. W grze kontrolujesz postać, której celem jest skakanie po platformach, unikanie przeszkód i zdobywanie punktów. Gra ma zostać stworzona w Pythonie przy użyciu biblioteki Pygame.
 
 ## Spis treści
 
@@ -16,7 +16,7 @@
 
 ## Opis projektu
 
-Gra **trzybit** to prosty projekt stworzony przez zespół trzech pasjonatów programowania, którego celem było zbudowanie angażującej, lecz nieskomplikowanej gry platformowej. W trakcie gry postać automatycznie przemieszcza się w górę, podczas gdy gracz musi poruszać się w lewo lub w prawo, aby lądować na platformach, unikać przeszkód i zdobywać bonusy.
+Gra, nad którą pracujemy to prosty projekt stworzony przez nasz zespół, którego celem będzie zbudowanie angażującej, lecz nieskomplikowanej gry platformowej. W trakcie gry postać automatycznie przemieszcza się w górę, podczas gdy gracz musi poruszać się w lewo lub w prawo, aby lądować na platformach, unikać przeszkód i zdobywać bonusy.
 
 Projekt powstał z myślą o nauce programowania w Pythonie oraz rozwijaniu umiejętności korzystania z biblioteki Pygame.
 
