@@ -39,6 +39,8 @@ Projekt powstał z myślą o nauce programowania w Pythonie oraz rozwijaniu umie
 ## Uruchamianie gry
 
 ## Autorzy:
-
+- **Jakub Szkaradek**
+- **Kamil Szkarłat**
+- **Arkadiusz Baran**
 ## Licencja
 
