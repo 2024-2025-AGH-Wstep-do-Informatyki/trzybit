@@ -7,8 +7,7 @@
 - [Opis projektu](#opis-projektu)  
 - [Funkcjonalności](#funkcjonalności)  
 - [Wymagania](#wymagania)  
-- [Instalacja](#instalacja)  
-- [Uruchamianie gry](#uruchamianie-gry)  
+- [Instalacja](#instalacja)   
 - [Autorzy](#autorzy)  
 - [Licencja](#licencja)
 
