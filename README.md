@@ -40,13 +40,22 @@ Aby uruchomić grę, należy spełnić poniższe wymagania:
 - **Pygame**: wersja 2.1.0 lub nowsza  
 - System operacyjny: Windows, macOS, Linux
 
+---
+
 ## Instalacja
 
+---
+
 ## Uruchamianie gry
+
+---
 
 ## Autorzy:
 - **Jakub Szkaradek**
 - **Kamil Szkarłat**
 - **Arkadiusz Baran**
+
+---
+
 ## Licencja
 
