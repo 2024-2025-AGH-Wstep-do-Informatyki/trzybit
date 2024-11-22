@@ -43,11 +43,16 @@ Aby uruchomić grę, należy spełnić poniższe wymagania:
 ---
 
 ## Instalacja
-
----
-
-## Uruchamianie gry
-
+1. **Sklonuj repozytorium:**
+   ```bash
+   git clone https://github.com/2024-2025-AGH-Wstep-do-Informatyki/trzybit.git
+2. **Przejdź do katalogu projektu:**
+   ```bash
+   cd trzybit
+3. **Zainstaluj wymagane zależności:**
+   ```bash
+   pip install -r requirements.txt
+   
 ---
 
 ## Autorzy:
@@ -58,4 +63,5 @@ Aby uruchomić grę, należy spełnić poniższe wymagania:
 ---
 
 ## Licencja
+Ten projekt jest dostępny na licencji MIT. Szczegóły znajdziesz w pliku [LICENSE](LICENSE).
 
