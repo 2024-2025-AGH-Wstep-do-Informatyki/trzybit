@@ -34,6 +34,12 @@ Projekt powstał z myślą o nauce programowania w Pythonie oraz rozwijaniu umie
 
 ## Wymagania
 
+Aby uruchomić grę, należy spełnić poniższe wymagania:
+
+- **Python**: wersja 3.8 lub nowsza  
+- **Pygame**: wersja 2.1.0 lub nowsza  
+- System operacyjny: Windows, macOS, Linux
+
 ## Instalacja
 
 ## Uruchamianie gry
