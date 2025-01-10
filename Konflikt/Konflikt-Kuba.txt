@@ -12,3 +12,4 @@ f
 dsaf
 tescik
 
+test kontent do dodania na koncu
