@@ -1,0 +1,16 @@
+Tutaj jest pierwotna treść tekstu.
+
+Jeszcze przed zmianą.
+
+Zaraz dokona się zmiana i będzie konflikt...
+
+4
+
+...
+
+2.
+2
+2
+
+22
+11
