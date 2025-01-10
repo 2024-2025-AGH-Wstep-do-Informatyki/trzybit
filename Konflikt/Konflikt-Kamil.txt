@@ -1,16 +1,26 @@
-Tutaj jest pierwotna treść tekstu.
+W tym pliku dokonała się zmiana.
 
-Jeszcze przed zmianą.
+Treść tego pliku różni się od poprzedniego.
 
-Zaraz dokona się zmiana i będzie konflikt...
 
-4
+Dojdzie do konfliktu.
 
-...
 
-2.
-2
-2
 
-22
-11
+
+
+
+sds
+
+
+
+
+sds
+
+
+sdss
+
+
+
+
+................
